@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeeDenley-Currie
-- 👀 I’m interested in Data Science and using tech in science defence, especially within virology
+- 👀 I’m interested in Data Science and using tech in science
 - 🌱 I’m currently learning Data and SQL with the CFGDegree
 - 💞️ I’m looking for mentorship in how to make that jump into a full tech role
 - 📫 How to reach me: here, or on [linkedin](https://www.linkedin.com/in/bee-denley-currie/)
